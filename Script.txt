@@ -1,0 +1,87 @@
+﻿Scene : Tablet
+Audio(bangla)
+	English 
+	Duration 
+	Visual DIrection
+	
+
+	This video will present a brief introduction of Drawing Tablet and its pen, with the help of its 3D model.Drawing tablet  is used to create stunning digital arts.  
+	8 seconds 
+	Intro video
+	
+
+	Let’s Check on the drawing tablet
+	3 sec
+	Pen remove 
+	কি গুলোর পরে চার কোন এ দাগ দেয়া জায়গাটিকে ক্যনভাস বলা হয় । এখানেই পেন দিয়ে আকা সহ বিভিন্ন কাজ করা হয়।
+
+
+	Via this USB port drawing tablet will be connected with the computer by using a USB cable
+	8 sec
+	USB
+	ট্যাবলেট টির মোট  ৮ টি এক্সপ্রেস কি আছে যারা যথাক্রমে টাচ অন/অফ করা, সেটিংস শো করা , মোড চেঞ্জ করা , ডিস্প্লে তে চেঞ্জ করা, কি বোর্ডের শিফট, কন্ট্রোল, অলটার এবং পেন টু স্ক্রল মোড টোগল এর কাজ করে। 
+	This tiny round button is used to power on and off the drawing tablet. 
+	6 sec
+	Power button 
+	প্রথমেই ট্যাবলেট টির ছোট পরিচয় নেয়া যাক তবে? শুরুতেই আসি কয়টি কি আছে এবং এদের কাজ কি কি 
+
+
+	Now come to the canvas section. In this area anyone can draw anything with the help of its pen.This area is called active area. 
+	11sec
+	Canvas 
+	৪ টি কি পর পর গোল বাটন টিকে টাচ রিং বলা হয় যা দিয়ে জুম ইন জুম আউট এ কাজ করে। রিং এর মাঝে ক্লিক করলে স্ক্রল , লেয়ার আপডাউন, ব্রাশ সাইজ নির্নয়, ক্যনভাস রোটেশন এ সুইচ করে কাজ করা যায়। 
+	These 4 keys are used sequentially   for staring on off operation of Touch, showing settings, changing modes and to Toggle display  
+	12sec
+	1st 4 keys 
+	কি এর পাশের উচু গোল বাটন দিয়ে পাওয়ার অন অফ এবং অপর পাশের পোর্ত দিয়ে ইউ এস বি দিয়ে আমরা পিসির সাথে কানেকশন দিই। 
+	These 4 buttons are used as shift, alt, ctrl keystrokes of a keyboard. The last key is used to toggle between pen to scroll mode
+	12 sec
+	Last 4 keys 
+	
+
+	This round section is used to zoom out or zoom in by pressing it anti clockwise and clockwise.
+Middle button is used for switching among scroll , layer updown, brush size and canvas selection. 
+	10 sec
+	Touch ring 
+	
+
+	Now, let’s check on its  pen
+	3 sec
+	Pen intro
+	
+
+	This area will used to keep fingers to grip 
+	8 sec
+	Grip Area
+	
+
+	This removable metallic part is for storing pens replaceable nibs.. 
+	10 sec
+	Metalic part
+	
+
+	These replaceable nibs can be of different types for different drawing purposes.
+	8 sec
+	Replacable Nib
+	
+
+	There are 2 switchs, upper is for double click
+Lower one is to scroll. 
+	8 sec
+	Side Switch
+	
+
+	Thats all for now.Thank you very much for watching the video. 
+	
+
+	Thank you 
+	
+
+
+
+
+
+Draft : 
+
+
+Button move korbena , arrow add korbo .
