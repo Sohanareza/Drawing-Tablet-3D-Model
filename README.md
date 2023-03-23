@@ -18,3 +18,5 @@ Blender, Kdenlive
 * lack of proper resources to learn 
 * Need good hand gesture to move mouse 
 * Need proper keyword learning 
+* Voice Editing
+
